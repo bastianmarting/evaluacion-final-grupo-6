@@ -6,7 +6,7 @@ Respaldo teórico y empírico de la investigación
 
 En las últimas décadas, Chile ha experimentado un acelerado proceso de envejecimiento
 demográfico, fenómeno evidenciado por la inversión de la pirámide de edades. Según los datos
-del Instituto Nacional de Estadísticas (INE) (2025), para el año 1992 el porcentaje de personas de
+del Instituto Nacional de Estadísticas (INE) (2025), para el año 1992 el porcentaje de personas de 
 65 años o más era de 6,6%, cifra que en el 2024 aumentó a 14%. Paralelamente, se observa una
 disminución del porcentaje del grupo etario de 15 años o menos, de manera que para el año 1992
 la cifra era 29,4%, y para el año 2024 fue de 17,7%. Además, según el último Censo del año
