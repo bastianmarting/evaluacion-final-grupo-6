@@ -7,7 +7,7 @@ csl: refs/apa.csl
 editor: source
 ---
 
-Motivación, preguntas de investigación, Objetivo general y específicos, contribución esperada, estructura del documento. como dice @albala_envejecimiento_2020 las XXXXXX
+Motivación, preguntas de investigación, Objetivo general y específicos, contribución esperada, estructura del documento. como dice @institutonacionaldeestadisticas_resultados_ menciona que las XXXXX
 
 Durante los últimos años, la composición familiar en Chile ha estado cambiando de forma
 sustancial, debido a, principalmente, el envejecimiento poblacional. Este fenómeno se caracteriza
