@@ -14,7 +14,8 @@ pacman::p_load(tidyverse,
                summarytools,
                ggplot2,
                dplyr,
-               hrbrthemes) 
+               hrbrthemes, 
+               corrplot) 
 if (!require(survey)) install.packages('survey'); library(survey)
 if (!require(calidad)) install.packages('calidad'); library(calidad)
 
